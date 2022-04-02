@@ -1,0 +1,11 @@
+body{
+    font: normal normal 100% "Open Sans", Arial, sans-serif;
+    position: relative;
+    max-width: 1020px;
+    margin: 0px auto;
+    background: #577470;
+    color: #17261c;
+    line-height: 1.5em;
+    word-spacing: 2px;
+
+}
